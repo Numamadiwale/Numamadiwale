@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShadowSteel03 !
 - 👀 I’m interested in research on outerspace,coding and Antenna Design.
 - 🌱 I’m currently studying to earn my Bachelors Degree in Electronics and Communication Engineering.
-- 📫 You can reach me throuhh my email @numa2003.madiwale@gmail.com.
+- 📫 You can reach me through my email @numa2003.madiwale@gmail.com.
 - I aspire to work as an RF Engineer for outerspace explortion.
 
 <!---
